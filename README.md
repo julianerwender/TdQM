@@ -23,7 +23,7 @@
 
 7. Vorteile und Nachteile für DOE
 > VL 5 Seit 14, 15
-> 别的优缺点也都看看，考试的优缺点我™一个都没写出来
+> 别的优缺点也都看看，考试的优缺点我<sup>TM</sup>一个都没写出来
 
 
 8. MTTF的定义(选择题)
@@ -45,9 +45,9 @@
 > > 4. Kenngrößen zur Beurteilung des aktuellen Prozesszustandes heranziehen 
 > > 5. Gegebenenfalls Prozesszustand durch geeignete Maßnahmen korrigieren 
 
-12. C~m~ 与C~mk~ 的区别(判断题)
+12. C<sub>m</sub> 与C<sub>mk</sub> 的区别(判断题)
 > VL 9 Seit 19, 20
-> 将C~m~ 的特征说成C~mk~ 的，是错的。
+> 将Cm 的特征说成Cmk 的，是错的。
 
 13. 5S
 
